@@ -1,4 +1,5 @@
 # Sensors-and-IoT
 Sensors and IoT codes 
 
-This repo consists of py codes for sensors.
+
+This repository contains python programs written specifically for raspberry pi
